@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import Hls from "hls.js";
 
-const VIDEO_SRC = "https://stream.mux.com/DQDjavadXX6PV6uVa4JbymMppVvryfPCpvKrSNu3Gf00.m3u8?redundant_streams=true";
+const VIDEO_SRC = "https://videotourl.com/videos/1774411273536-4b12e7de-e616-458d-aae6-daf520697ecb.mp4";
 
 const HeroVideo = () => {
   const videoRef = useRef<HTMLVideoElement>(null);
