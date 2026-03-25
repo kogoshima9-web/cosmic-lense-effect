@@ -38,7 +38,7 @@ const HeroSection = () => {
         {/* Heading */}
         <h1 className="text-6xl md:text-7xl lg:text-[5.5rem] leading-[0.8] tracking-[-4px] max-w-2xl font-heading italic text-foreground mb-6">
           <BlurText
-            text="Venture Past Our Sky Across the Universe"
+            text="i love making stuff :)"
             staggerDelay={0.1}
             stepDuration={0.35}
           />
